@@ -19,6 +19,7 @@
     height: 40px;
     align-items: baseline;
     margin-bottom: 100px;
+    justify-content: space-around;
 }
 
 .bottom-header {
